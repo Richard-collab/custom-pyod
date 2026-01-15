@@ -1,0 +1,7 @@
+[project]
+name = "custom-pyod"
+version = "0.1.0"
+description = "reinventing the wheel for a pyod subset"
+readme = "README.md"
+requires-python = ">=3.6"
+dependencies = []
